@@ -405,24 +405,6 @@ section{
     
 }
 
-/* thanks for watching my video  */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .swiper-pagination-bullet{
     background-color: var(--black);
 }
@@ -432,9 +414,6 @@ section{
 .swiper-button-prev{
     color: var(--black);
 }
-
-
-/* media queries for web responsive */
 
 @media (max-width:991px){
     html{
